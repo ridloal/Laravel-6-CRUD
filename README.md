@@ -17,4 +17,6 @@ Simple app Laravel 6 CRUD.
 5. create empty database
 6. Set db connection at .env file
 7. perform "php artisan migrate"
-8. Done.
+8. perform "php artisan storage:link"
+9. perform "php artisan serve"
+10. Done. Open browser 127.0.0.1:8000
